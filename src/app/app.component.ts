@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   value = 'World';
   Name = "Rajesh";
-  WebType ="Static Web App and Api";
+  WebType ="Static Web App and Api!";
 
 
 }
